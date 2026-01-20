@@ -8,7 +8,7 @@ A repository dedicated to tracking my journey through the **NeetCode 150**—a c
 | **Arrays & Hashing** | 9 | 9 / 9 |
 | **Two Pointers** | 5 | 5 / 5 | 
 | **Sliding Window** | 6 | 6 / 6 | 
-| **Stack** | 7 | 0 / 7 | 
+| **Stack** | 7 | 1 / 6 | 
 | **Binary Search** | 7 | 0 / 7 | 
 | **Linked List** | 11 | 0 / 11 | 
 | **Trees** | 15 | 0 / 15 |
@@ -23,4 +23,4 @@ A repository dedicated to tracking my journey through the **NeetCode 150**—a c
 | **Intervals** | 6 | 0 / 6 | 
 | **Math & Geometry** | 8 | 0 / 8 |
 | **Bit Manipulation** | 7 | 0 / 7 | 
-| **TOTAL** | **150** | **20 / 150** | 
+| **TOTAL** | **150** | **21 / 150** | 
