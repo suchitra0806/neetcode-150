@@ -8,19 +8,19 @@ A repository dedicated to tracking my journey through the **NeetCode 150**—a c
 | **Arrays & Hashing** | 9 | 9 / 9 |
 | **Two Pointers** | 5 | 5 / 5 | 
 | **Sliding Window** | 6 | 6 / 6 | 
-| **Stack** | 7 | 1 / 6 | 
+| **Stack** | 6 | 6 / 6 | 
 | **Binary Search** | 7 | 0 / 7 | 
 | **Linked List** | 11 | 0 / 11 | 
 | **Trees** | 15 | 0 / 15 |
-| **Tries** | 3 | 0 / 3 | 
 | **Heap / Priority Queue** | 7 | 0 / 7 |
-| **Backtracking** | 9 | 0 / 9 | 
+| **Backtracking** | 10 | 0 / 10 | 
+| **Tries** | 3 | 0 / 3 | 
 | **Graphs** | 13 | 0 / 13 | 
 | **Advanced Graphs** | 6 | 0 / 6 | 
 | **1D Dynamic Programming** | 12 | 0 / 12 | 
-| **2D Dynamic Programming** | 9 | 0 / 9 |
+| **2D Dynamic Programming** | 11 | 0 / 11 |
 | **Greedy** | 8 | 0 / 8 |
 | **Intervals** | 6 | 0 / 6 | 
 | **Math & Geometry** | 8 | 0 / 8 |
 | **Bit Manipulation** | 7 | 0 / 7 | 
-| **TOTAL** | **150** | **21 / 150** | 
+| **TOTAL** | **150** | **26 / 150** | 
